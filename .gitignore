@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Data
+data/raw/*.csv
+data/raw/*.zip
+data/processed/
+
+# Models and reports
+*.joblib
+*.pkl
+reports/figures/*.png
+!reports/figures/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Kaggle creds
+kaggle.json
+
+# Jupyter
+.ipynb_checkpoints/
