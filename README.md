@@ -18,6 +18,9 @@ So I built ChurnRadar. It pairs predictive modeling with customer segmentation, 
 6. Translates the model output into something a business audience cares about: estimated revenue at risk, broken down by segment.
 7. Serves the whole thing through a Streamlit dashboard with a modern dark theme.
 
+<img width="1208" height="651" alt="image" src="https://github.com/user-attachments/assets/34826daf-1e1f-4a79-8bcd-c2ab82d9e8e0" />
+
+
 ## Why this dataset
 
 The Kaggle Churn Modelling file is small, clean, and almost too tidy. That is fine for a portfolio project, because the goal is to show analytical thinking and not to spend three weeks fixing CSV encoding bugs. The dataset has a believable mix of numerical and categorical features, and the target is balanced enough to make modeling interesting (about 20% churn) without being trivially easy.
