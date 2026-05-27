@@ -5,6 +5,8 @@ A typical retail bank loses roughly one in five customers every year. Most of th
 This project came out of conversations I kept having with friends who work in retail banking. The same question came up over and over: which customers are about to walk, and what is that actually costing us in dollar terms?
 
 So I built ChurnRadar. It pairs predictive modeling with customer segmentation, and adds a rough but honest estimate of how much revenue is at risk. The whole pipeline runs end to end from a Kaggle dataset, and there is a small Streamlit dashboard at the end so a non-technical reader can poke around.
+<img width="1232" height="1207" alt="image" src="https://github.com/user-attachments/assets/fa68c161-a774-40d7-9e41-6fe11cc06390" />
+
 
 ## What the project actually does
 
